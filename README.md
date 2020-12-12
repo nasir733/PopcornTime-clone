@@ -30,4 +30,4 @@ Learning React and ES6 by building a Movie Discovery App.
 
 # Preview:
 
-Try it on [netlify](ni-clone-popcorntime.netlify.app)
+Try it on [netlify]('ni-clone-popcorntime.netlify.app')
